@@ -1,2 +1,2 @@
-# Basic-of-Python
-Step by step for stady python
+# Basic-of-Python-for-Data-Science
+Step by step study of python for data-science
